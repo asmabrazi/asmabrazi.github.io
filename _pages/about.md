@@ -16,7 +16,7 @@ Her research interests lie in computer vision and machine learning, particularly
 News
 ------
 - 11/2025 🎉 Our paper BOP-Distrib was accepted at WACV 2026!
-- 05/2025 🎉 Our paper [Corr2Distrib[9https://ieeexplore.ieee.org/document/10993297) was accepted at RA-L!
+- 05/2025 🎉 Our paper [Corr2Distrib](https://ieeexplore.ieee.org/document/10993297) was accepted at RA-L!
 - 10/2023 Served as a Lab Teaching Assistant for the Master 2 “Deep Learning” course at CentraleSupélec, with Maria Vakalopoulou and Vincent Lepetit.
 - 09/2023 Served as a Lab Teaching Assistant for the undergraduate course “Introduction to Object-Oriented Programming” at Sorbonne Université, with Christophe Marsala.
 - 06/2023 Authored a popular science article about my PhD topic for [Univers En Creation](https://www.calameo.com/books/00054870544f62f13f016) (CEA project by Hélène Launois)
