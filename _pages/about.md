@@ -1,46 +1,28 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Asma Brazi"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Asma Brazi is a PhD candidate at CEA-List and LIGM (École des Ponts ParisTech). Her doctoral research focuses on 6D object pose distribution estimation from a single RGB image and object CAD model, exploring probabilistic and learning-based approaches for robust 3D perception.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Before beginning her PhD, she earned two master’s degrees: one in Agents Distribués, Robotique, Recherche Opérationnelle, Interaction et Décision (ANDROIDE) from Sorbonne University, and another in Vision et Machine Intelligente (VMI) from Paris Descartes University.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+Her research interests lie in computer vision and machine learning, particularly in representation learning, object localization, and 3D scene understanding.
 
 News
 ------
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- 11/2025 Our paper BOP-DIstrib got accepted at WACV 🎉
-- 05/2025 Our paper [Corr2Distrib[9https://ieeexplore.ieee.org/document/10993297) got accepted at RA-L 🎉
-- 10/2023 Lab Teaching Assistant Master 2 MVA "Deep Learning" at CentraleSupelec, with Maria Vakalopoulou.
-- 09/2023 Lab Teaching Assistant Licence 2 "Introduction to Object Oriented Programming" at Sorbonne université with Christophe Marsala.
-- 06/2023 Authored a popular science story on my thesis topic for [Univers En Creation](https://www.calameo.com/books/00054870544f62f13f016) (CEA project by Hélène Launois)
-- 07/2022 I started my PhD at CEA-List & ENPC-LIGM-IMAGINE, under the supervision of Vincent Lepetit, Boris Meden, Fabrice Mayran de Chamisso and Steve Bourgeois.
+- 11/2025 🎉 Our paper BOP-Distrib was accepted at WACV 2026!
+- 05/2025 🎉 Our paper [Corr2Distrib[9https://ieeexplore.ieee.org/document/10993297) was accepted at RA-L!
+- 10/2023 Served as a Lab Teaching Assistant for the Master 2 “Deep Learning” course at CentraleSupélec, with Maria Vakalopoulou and Vincent Lepetit.
+- 09/2023 Served as a Lab Teaching Assistant for the undergraduate course “Introduction to Object-Oriented Programming” at Sorbonne Université, with Christophe Marsala.
+- 06/2023 Authored a popular science article about my PhD topic for [Univers En Creation](https://www.calameo.com/books/00054870544f62f13f016) (CEA project by Hélène Launois)
+- 07/2022 Started my PhD on “Object Pose Distribution Estimation” at CEA-List and ENPC-LIGM-IMAGINE, under the supervision of Vincent Lepetit, Boris Meden, Fabrice Mayran de Chamisso, and Steve Bourgeois.
+- 04/2021 Began my Master’s internship on Deformable Object Pose Estimation at CEA-List, supervised by Boris Meden, Fabrice Mayran de Chamisso, and Steve Bourgeois.
+- 03/2020 Began my Master’s internship on the Valet Robot Perception Module at Stanley Robotics, supervised by Julien Martin and Anthony Trouble.
+  
 
-**Markdown generator**
 
