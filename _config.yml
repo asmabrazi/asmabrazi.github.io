@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Paris, France"
-  employer         : "École nationale des ponts et chaussées (ENPC)"
+  employer         : "<a href='https://www.enpc.fr' target='_blank'>École nationale des ponts et chaussées (ENPC)</a>"
   uri              : # URL
   email            : #"none@example.org" 
 
