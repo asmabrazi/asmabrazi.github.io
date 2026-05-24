@@ -17,7 +17,7 @@ News
 ------
 - 12/2025 🎉 Successfully defended [PhD thesis](https://scholar.google.com/citations?view_op=view_citation&hl=fr&user=OD1IpwYAAAAJ&citation_for_view=OD1IpwYAAAAJ:IjCSPb-OGe4C)!
 - 11/2025 🎉 Our paper [BOP-Distrib](https://openaccess.thecvf.com/content/WACV2026/papers/Meden_BOP-Distrib_Revisiting_6D_Pose_Estimation_Benchmarks_for_Better_Evaluation_under_WACV_2026_paper.pdf) was accepted at WACV 2026!
-- 05/2025 🎉 Our paper [Corr2Distrib](https://ieeexplore.ieee.org/document/10993297) was accepted at RA-L!
+- 05/2025 🎉 Our paper [Corr2Distrib](https://ieeexplore.ieee.org/document/10993297) was accepted at RA-L 2025!
 - 10/2023 Served as a Lab Teaching Assistant for the Master 2 [MVA](https://www.master-mva.com), “Deep Learning” course at [CentraleSupélec](https://www.centralesupelec.fr), with [Maria Vakalopoulou](https://mariavak.github.io) and [Vincent Lepetit](https://vincentlepetit.github.io).
 - 09/2023 Served as a Lab Teaching Assistant for the undergraduate course “LU2IN002: Introduction to Object-Oriented Programming” at [Sorbonne Université](https://www.sorbonne-universite.fr), with [Christophe Marsala](https://www.lip6.fr/actualite/personnes-fiche.php?ident=P880).
 - 06/2023 Authored a popular science article about my PhD topic for [Univers En Creation](https://www.calameo.com/books/00054870544f62f13f016) (CEA project by Hélène Launois)
