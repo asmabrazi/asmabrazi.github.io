@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Asma Brazi is a PhD candidate at CEA-List and LIGM (École des Ponts ParisTech). Her doctoral research focuses on 6D object pose distribution estimation from a single RGB image and object CAD model, exploring probabilistic and learning-based approaches for robust 3D perception.
+Asma Brazi is a PhD graduate from CEA-List and LIGM (École des Ponts ParisTech), having defended her PhD in December 2025. Her doctoral research focuses on 6D object pose distribution estimation from a single RGB image and object CAD model, exploring probabilistic and learning-based approaches for robust 3D perception.
 
 Before beginning her PhD, she earned two master’s degrees: one in Agents Distribués, Robotique, Recherche Opérationnelle, Interaction et Décision (ANDROIDE) from Sorbonne University, and another in Vision et Machine Intelligente (VMI) from Paris Descartes University.
 
